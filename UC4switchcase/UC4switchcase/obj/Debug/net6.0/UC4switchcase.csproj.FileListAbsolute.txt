@@ -1,0 +1,15 @@
+C:\Users\anjum\source\repos\UC4switchcase\UC4switchcase\bin\Debug\net6.0\UC4switchcase.exe
+C:\Users\anjum\source\repos\UC4switchcase\UC4switchcase\bin\Debug\net6.0\UC4switchcase.deps.json
+C:\Users\anjum\source\repos\UC4switchcase\UC4switchcase\bin\Debug\net6.0\UC4switchcase.runtimeconfig.json
+C:\Users\anjum\source\repos\UC4switchcase\UC4switchcase\bin\Debug\net6.0\UC4switchcase.dll
+C:\Users\anjum\source\repos\UC4switchcase\UC4switchcase\bin\Debug\net6.0\UC4switchcase.pdb
+C:\Users\anjum\source\repos\UC4switchcase\UC4switchcase\obj\Debug\net6.0\UC4switchcase.csproj.AssemblyReference.cache
+C:\Users\anjum\source\repos\UC4switchcase\UC4switchcase\obj\Debug\net6.0\UC4switchcase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anjum\source\repos\UC4switchcase\UC4switchcase\obj\Debug\net6.0\UC4switchcase.AssemblyInfoInputs.cache
+C:\Users\anjum\source\repos\UC4switchcase\UC4switchcase\obj\Debug\net6.0\UC4switchcase.AssemblyInfo.cs
+C:\Users\anjum\source\repos\UC4switchcase\UC4switchcase\obj\Debug\net6.0\UC4switchcase.csproj.CoreCompileInputs.cache
+C:\Users\anjum\source\repos\UC4switchcase\UC4switchcase\obj\Debug\net6.0\UC4switchcase.dll
+C:\Users\anjum\source\repos\UC4switchcase\UC4switchcase\obj\Debug\net6.0\refint\UC4switchcase.dll
+C:\Users\anjum\source\repos\UC4switchcase\UC4switchcase\obj\Debug\net6.0\UC4switchcase.pdb
+C:\Users\anjum\source\repos\UC4switchcase\UC4switchcase\obj\Debug\net6.0\UC4switchcase.genruntimeconfig.cache
+C:\Users\anjum\source\repos\UC4switchcase\UC4switchcase\obj\Debug\net6.0\ref\UC4switchcase.dll
