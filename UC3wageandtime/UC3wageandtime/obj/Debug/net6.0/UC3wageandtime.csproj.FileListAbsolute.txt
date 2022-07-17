@@ -1,0 +1,15 @@
+C:\Users\anjum\source\repos\UC3wageandtime\UC3wageandtime\bin\Debug\net6.0\UC3wageandtime.exe
+C:\Users\anjum\source\repos\UC3wageandtime\UC3wageandtime\bin\Debug\net6.0\UC3wageandtime.deps.json
+C:\Users\anjum\source\repos\UC3wageandtime\UC3wageandtime\bin\Debug\net6.0\UC3wageandtime.runtimeconfig.json
+C:\Users\anjum\source\repos\UC3wageandtime\UC3wageandtime\bin\Debug\net6.0\UC3wageandtime.dll
+C:\Users\anjum\source\repos\UC3wageandtime\UC3wageandtime\bin\Debug\net6.0\UC3wageandtime.pdb
+C:\Users\anjum\source\repos\UC3wageandtime\UC3wageandtime\obj\Debug\net6.0\UC3wageandtime.csproj.AssemblyReference.cache
+C:\Users\anjum\source\repos\UC3wageandtime\UC3wageandtime\obj\Debug\net6.0\UC3wageandtime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anjum\source\repos\UC3wageandtime\UC3wageandtime\obj\Debug\net6.0\UC3wageandtime.AssemblyInfoInputs.cache
+C:\Users\anjum\source\repos\UC3wageandtime\UC3wageandtime\obj\Debug\net6.0\UC3wageandtime.AssemblyInfo.cs
+C:\Users\anjum\source\repos\UC3wageandtime\UC3wageandtime\obj\Debug\net6.0\UC3wageandtime.csproj.CoreCompileInputs.cache
+C:\Users\anjum\source\repos\UC3wageandtime\UC3wageandtime\obj\Debug\net6.0\UC3wageandtime.dll
+C:\Users\anjum\source\repos\UC3wageandtime\UC3wageandtime\obj\Debug\net6.0\refint\UC3wageandtime.dll
+C:\Users\anjum\source\repos\UC3wageandtime\UC3wageandtime\obj\Debug\net6.0\UC3wageandtime.pdb
+C:\Users\anjum\source\repos\UC3wageandtime\UC3wageandtime\obj\Debug\net6.0\UC3wageandtime.genruntimeconfig.cache
+C:\Users\anjum\source\repos\UC3wageandtime\UC3wageandtime\obj\Debug\net6.0\ref\UC3wageandtime.dll
